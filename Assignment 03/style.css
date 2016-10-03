@@ -6,14 +6,17 @@ margin-right: auto;
 max-width: 40em;
 }
 h1 {
-	font-size: 3em;
+	font-size: 5em;
 	font-family: 'Helvetica';
 	color:#F97762;
+	display:inline;
+	
 }
 h2 {
 	font-family: 'Helvetica';
-	font-weight: 400;
+	font-weight: 200;
 	letter-spacing: 0.4em;
+	display:inline;
 }
 p {
 	font-family: Futura;

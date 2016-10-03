@@ -37,6 +37,13 @@ a {
 
 	font-family: 'Futura';
 	font-size: .8em;
+	
+}
+a:visited {
+
+	font-family: 'Futura';
+	font-size: .8em;
+	color: #000000;
 }
 
 /* mouse over link */
