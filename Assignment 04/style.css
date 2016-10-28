@@ -18,6 +18,13 @@ h2 {
 	letter-spacing: 0.4em;
 	display:inline;
 }
+h3 {
+	font-family: 'Helvetica';
+	font-size: 2em;
+	font-weight: 100;
+	letter-spacing: 0.4em;
+	color:#F97762
+}
 p {
 	font-family: Futura;
 	font-size: 0.8em;
