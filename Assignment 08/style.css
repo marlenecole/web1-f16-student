@@ -11,6 +11,7 @@ h1 {
 	font-family: 'Brandon Grotesque';
 	color:#ffffff;
 	text-align:center;
+	margin:0em;
 	
 }
 h2 {
@@ -57,7 +58,11 @@ a:link, a:visited {
 
 a:hover, a:active {
     background-color: red;
-}*/
+}
+
+	<a href="portfolio.html">
+	<img src="rabbit 2.jpg" alt="rabbit 2" width="100" height="100" border="0">
+*/
 a:hover {
     color:#e50808;
 	background-color: #e50808;
@@ -85,6 +90,10 @@ a:active {
 img {
 	align:center;
 	
+}
+#main {
+	max-width: 450px;
+	margin: 0 auto; /* center this column */
 }
 
 
